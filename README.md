@@ -100,7 +100,7 @@
 | 🔗 **Platform** | 📌 **Details** |
 |----------------|----------------|
 | GitHub         | `@bansu_aghera` |
-| Email          | Available on resume |
+| Email          | agherabansi2@gmail.com |
 | Location       | India 🇮🇳 |
 
 ---
