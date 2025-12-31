@@ -1,8 +1,3 @@
-------------------------NET PROJECT RULES--------------------
-
-
-
-
 <h1 align="center">Hi 👋, I'm Bansi Amrutlal Aghera</h1>
 <h3 align="center">Mobile App Developer | Web Developer | Computer Engineering Student</h3>
 
@@ -65,32 +60,27 @@
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bansu_aghera&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansu_aghera&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
 ## 🚀 My Projects
 
-### 🔹 B2C Mobile Application – Care Ceramic *(Live Project)*           ### 🔹 QR-Based Bus Attendance System
-- Flutter + Firebase + Cloudinary                                          - Flutter QR scanning system  
-- Product catalog, cart, wishlist & orders                                 - Firebase real-time database 
-- PDF catalog generation & sharing                                         - 🥈 Runner-Up – **TechFusion 2025**
-- Real-time stock & user management
-- 🔹 Admin Dashboard & Cart Modules
--  - Product management system  
-- Firebase-based cart & order handling
-- 
-### 🔹 E-Commerce Website (Clothing Brand)                           
+### 🔹 B2C Mobile Application – Care Ceramic *(Live Project)*
+- Flutter + Firebase + Cloudinary  
+- Product catalog, cart, wishlist & orders  
+- PDF catalog generation & sharing  
+- Real-time stock & user management  
+
+### 🔹 QR-Based Bus Attendance System
+- Flutter QR scanning system  
+- Firebase real-time database  
+- 🥈 Runner-Up – **TechFusion 2025**
+
+### 🔹 E-Commerce Website (Clothing Brand)
 - PHP, Tailwind CSS, JavaScript  
 - User auth, cart, wishlist & admin panel  
+
+### 🔹 Admin Dashboard & Cart Modules
+- Product management system  
+- Firebase-based cart & order handling  
+
 ---
 
 ## 🧑‍💼 Internship Experience
@@ -101,15 +91,3 @@
 - Data preprocessing & analysis  
 - Pandas, NumPy, Scikit-learn  
 - Real-world dataset handling  
-
----
-
-## 👀 Profile Views
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=bansu_aghera&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
-
----
-
-⭐ *Building clean, scalable, and business-ready applications.*
