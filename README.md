@@ -1,108 +1,117 @@
-# 👨‍💻 Bansi Amrutlal Aghera
+<h1 align="center">Hi 👋, I'm Bansi Amrutlal Aghera</h1>
+<h3 align="center">Mobile App Developer | Web Developer | Computer Engineering Student</h3>
 
-🎓 **Computer Engineering Undergraduate** | 📱 **Mobile App Developer** | 🌐 **Web Developer**
-
----
-
-## 🧠 About Me
-
-💡 Computer Engineering student with strong hands-on experience in **mobile application development, web technologies, and industry-level B2C solutions**.  
-🚀 Focused on building **scalable, user-centric applications** with clean architecture and efficient backend integration.  
-🏭 Actively contributed to **live production projects** for real clients in the ceramic manufacturing domain.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+Developer;B2C+App+Developer;Web+Developer;Clean+Architecture+Enthusiast&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 🏆 Experience & Live Projects
+## 💫 About Me
 
-### 🏭 **B2C Mobile Application – Care Ceramic (Live Project)**
-**Client:** Morbi Ceramic Industry – *Care Ceramic*
+🎓 B.Tech Computer Engineering student at **RK University**  
+📱 Passionate **Flutter Mobile App Developer**  
+🌐 Web Developer with backend experience  
+🏭 Worked on **live B2C industry-level applications**  
+🔥 Focused on **scalable, production-ready solutions**  
+🤝 Open to collaboration and real-world projects  
 
-- 📱 Developed a **production-ready B2C mobile application** for a ceramic manufacturing brand  
-- 🛒 Implemented **product catalog, cart, wishlist, and complete order workflow**  
-- 📦 Built **automatic stock management** with real-time updates  
-- 📄 Added **PDF catalog generation & sharing** for customers and sales teams  
-- ☁️ Integrated **Cloudinary** for optimized and scalable product image storage  
-- 🔥 Used **Firebase** for real-time database, authentication, and backend scalability  
-- 💾 Implemented **local storage** to securely store user credentials and session data  
-- 🎯 Focused on **high performance, clean UI, and business-ready architecture**  
-- 🤝 Actively involved in **requirement analysis, development, testing, and deployment**
+⚡ *I enjoy converting business ideas into fully functional applications.*
 
 ---
 
-### 🚌 **QR-Based Bus Attendance System**
-**Organization:** RK University
+## 🌐 Connect With Me
 
-- 📸 Implemented **QR code-based attendance** using Flutter  
-- ☁️ Real-time data storage & tracking with **Firebase**  
-- ⚡ Improved accuracy and reduced manual effort  
-- 🥈 **Runner-Up – TechFusion 2025 (Mobile App Development Category)**
+<p align="left">
+<a href="https://github.com/bansu_aghera" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:agherabansi2@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-### 🛍️ **E-Commerce Website (Clothing Brand)**
+## 💻 Tech Stack
 
-- 🧑‍💼 User authentication, cart, wishlist & admin panel  
-- 📦 Product, category & order management system  
-- 🎨 Responsive UI with modern styling  
-- 🛠️ **Tech Stack:** PHP, JavaScript, HTML, Tailwind CSS, SQL  
+### 📱 Mobile Development
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
+
+### 🌐 Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=php,html,css,js,tailwind" />
+</p>
+
+### 💻 Programming & Database
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,mysql" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=bansu_aghera&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansu_aghera&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🚀 My Projects
+
+### 🔹 B2C Mobile Application – Care Ceramic *(Live Project)*
+- Flutter + Firebase + Cloudinary  
+- Product catalog, cart, wishlist & orders  
+- PDF catalog generation & sharing  
+- Real-time stock & user management  
+
+### 🔹 QR-Based Bus Attendance System
+- Flutter QR scanning system  
+- Firebase real-time database  
+- 🥈 Runner-Up – **TechFusion 2025**
+
+### 🔹 E-Commerce Website (Clothing Brand)
+- PHP, Tailwind CSS, JavaScript  
+- User auth, cart, wishlist & admin panel  
+
+### 🔹 Admin Dashboard & Cart Modules
+- Product management system  
+- Firebase-based cart & order handling  
 
 ---
 
 ## 🧑‍💼 Internship Experience
 
-### 📊 **Data Science & Machine Learning Intern**
-**Brainy Beam Technologies Pvt. Ltd., Ahmedabad**  
-📅 *July – August 2023*
+**Data Science & ML Intern**  
+📍 Brainy Beam Technologies Pvt. Ltd., Ahmedabad  
 
-- 🧹 Data cleaning & preprocessing  
-- 📈 Worked with **Pandas, NumPy, Scikit-learn**  
-- 🧠 Hands-on exposure to real-world datasets & analytics  
-
----
-
-## 🛠️ Technical Skills
-
-### 📱 Mobile Development & 🌐 Web Development
-
-| 📱 **Mobile Development** | 🌐 **Web Development** |
-|--------------------------|------------------------|
-| Flutter                  | PHP                    |
-| Dart                     | JavaScript             |
-| Firebase                 | HTML                   |
-|                          | CSS                    |
-|                          | Tailwind CSS           |
+- Data preprocessing & analysis  
+- Pandas, NumPy, Scikit-learn  
+- Real-world dataset handling  
 
 ---
 
-### 💻 Programming & Database & ⚙️ Core Concepts
+## 👀 Profile Views
 
-| 💻 **Programming & Database** | ⚙️ **Core Concepts** |
-|-------------------------------|----------------------|
-| Java                          | App Architecture     |
-| Python                        | REST-based Data Handling |
-| SQL                           | Basic Networking     |
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=bansu_aghera&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
 
 ---
 
-### 🤝 Professional Skills & 🎯 Areas of Interest
-
-| 🤝 **Professional Skills** | 🎯 **Areas of Interest** |
-|---------------------------|--------------------------|
-| Problem Solving           | 📲 Mobile Application Development |
-| Team Collaboration        | 🌍 Full-Stack Development |
-| Leadership                | 🏭 Scalable B2C Applications |
-|                           | 📊 Data Analysis & Technology Exploration |
-
----
-
-## 📫 Let’s Connect
-
-| 🔗 **Platform** | 📌 **Details** |
-|----------------|----------------|
-| GitHub         | `@bansu_aghera` |
-| Email          | agherabansi2@gmail.com |
-| Location       | India 🇮🇳 |
-
----
-
-⭐ *Building real-world applications with clean code and modern technology.*
+⭐ *Building clean, scalable, and business-ready applications.*
