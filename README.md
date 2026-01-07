@@ -45,7 +45,7 @@ Pandas, NumPy, Scikit-learn | Real-world datasets
 
 ## 🌐 Connect
 <p>
-<a href="[https://github.com/bansu_aghera](https://github.com/bansuaghera)">
+<a href="https://github.com/bansuaghera">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 <a href="mailto:agherabansi2@gmail.com">
