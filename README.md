@@ -1,64 +1,58 @@
-# Bansi Amrutlal Aghera
+<h1 align="center">Hi 👋, I'm Bansi Amrutlal Aghera</h1>
+<h3 align="center">Flutter & Web Developer | Computer Engineering Student</h3>
 
-**Flutter Developer | Web Developer | Computer Engineering Student**
-
----
-
-## Professional Summary
-Flutter and Web Developer with hands-on experience building **live B2C mobile applications** and full-stack web systems. Strong focus on **clean architecture, scalable design, and production-ready solutions**. Comfortable working with real clients, real data, and real deadlines.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+Developer;B2C+App+Developer;Web+Developer&center=true&width=420&height=40">
+</p>
 
 ---
 
-## Technical Skills
-- **Mobile Development:** Flutter, Dart, Firebase  
-- **Web Development:** PHP, HTML, CSS, JavaScript, Tailwind CSS  
-- **Programming Languages:** Java, Python  
-- **Databases:** MySQL  
-- **Tools & Platforms:** Git, GitHub, Postman, VS Code  
+## 👨‍💻 About
+- 🎓 B.Tech Computer Engineering – **RK University**
+- 📱 Flutter developer with **live B2C app experience**
+- 🌐 Web developer (PHP, JS, Tailwind)
+- 🚀 Focused on **scalable, production-ready solutions**
+- 🤝 Open to internships & full-time roles
 
 ---
 
-## Professional Experience
-
-### Data Science & ML Intern  
-**Brainy Beam Technologies Pvt. Ltd., Ahmedabad**
-- Performed data preprocessing and exploratory data analysis  
-- Worked with Pandas, NumPy, and Scikit-learn  
-- Handled real-world datasets and analytical workflows  
-
----
-
-## Projects
-
-### Care Ceramic – B2C Mobile Application (Live Project)
-- Developed a production-ready Flutter application for ceramic product sales  
-- Implemented product catalog, cart, wishlist, and order management  
-- Integrated Firebase for real-time data handling  
-- Built PDF catalog generation and sharing features  
-- Designed scalable architecture suitable for business growth  
-
-### QR-Based Bus Attendance System
-- Built a QR-based attendance system using Flutter  
-- Integrated Firebase for real-time attendance tracking  
-- Achieved **Runner-Up position at TechFusion 2025**  
-
-### E-Commerce Website
-- Developed a full-stack e-commerce platform  
-- Implemented authentication, cart, wishlist, and admin panel  
-- Used PHP, JavaScript, and Tailwind CSS  
+## 🛠 Tech Stack
+**Mobile:** Flutter, Dart, Firebase  
+**Web:** PHP, HTML, CSS, JavaScript, Tailwind  
+**Languages:** Java, Python  
+**Database:** MySQL  
+**Tools:** Git, GitHub, Postman, VS Code  
 
 ---
 
-## Education
-**B.Tech in Computer Engineering**  
-RK University
+## 🚀 Projects
+**Care Ceramic – B2C Mobile App (Live)**  
+Flutter + Firebase | Cart, Orders, Wishlist, PDF Catalog  
+
+**QR-Based Bus Attendance System**  
+Flutter + Firebase | 🥈 Runner-Up – *TechFusion 2025*  
+
+**E-Commerce Website**  
+PHP + Tailwind | Auth, Cart, Admin Panel  
 
 ---
 
-## Contact
-- **GitHub:** https://github.com/bansu_aghera  
-- **Email:** agherabansi2@gmail.com  
+## 🧑‍💼 Internship
+**Data Science & ML Intern** – Brainy Beam Technologies, Ahmedabad  
+Pandas, NumPy, Scikit-learn | Real-world datasets  
 
 ---
 
-*Open to internships and full-time software development roles.*
+## 🌐 Connect
+<p>
+<a href="https://github.com/bansu_aghera">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+<a href="mailto:agherabansi2@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+---
+
+⚡ *Turning business ideas into real, working applications.*
