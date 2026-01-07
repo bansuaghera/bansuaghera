@@ -49,6 +49,10 @@ Pandas, NumPy, Scikit-learn | Real-world datasets
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 
+<a href="https://in.linkedin.com/in/aghera-bansi-84b5b1351" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=agherabansi2@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
