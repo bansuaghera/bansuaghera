@@ -2,7 +2,7 @@
 <h3 align="center">Flutter & Web Developer | Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+Developer;B2C+App+Developer;Web+Developer&center=true&width=420&height=40">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Web+%26+App+Developer;Simple+%26+Clean+Design;Flutter+%7C+Web+Development&center=true&width=420&height=40">
 </p>
 
 ---
