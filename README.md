@@ -5,6 +5,12 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Web+%26+App+Developer;Simple+%26+Clean+Design;Flutter+%7C+Web+Development&center=true&width=420&height=40">
 </p>
 
+<p align="center">
+  <a href="./Bansi_Resume.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About
