@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="./Bansi_Resume.pdf" download>
+  <a href="./Banshi Resume.pdf" download>
     <img src="https://img.shields.io/badge/Download%20Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
